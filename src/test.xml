@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<test-file>
+    <cinema seats="303">
+        <name>Ракета</name>
+        <films>
+            <film>Интерстеллар</film>
+            <film>Гравитация</film>
+            <film>BEEF</film>
+        </films>
+    </cinema>
+    <cinema seats="365">
+        <name>Октябрь</name>
+        <films>
+            <film>Бэтмен</film>
+            <film>Лего</film>
+            <film>BEEF</film>
+        </films>
+    </cinema>
+
+</test-file>
